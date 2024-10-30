@@ -1,11 +1,11 @@
 body{
-background-color: white;
+background-color: rgb(120, 238, 197);
 color:black;
 
 }
 
 section{
-    background-color: rgb(90, 195, 236);
+    background-color: rgb(90, 231, 236);
     padding-top: 80px;
     padding-bottom: 80px;
     display: flex;
